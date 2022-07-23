@@ -57,7 +57,7 @@ body{
   font-size: 24px;
   line-height: 1.75;
   font-weight: 700;
-  font-family: "Roboto","Microsoft JhengHei",sans-serif !important;
+  font-family: 'roboto','Noto Sans TC','Microsoft JhengHei',sans-serif;
 }
 img{
   vertical-align: middle;
@@ -73,7 +73,7 @@ img{
 }
 
 .header{
-  background: url(/assets/images/banner.png) no-repeat center center;
+  background: url(../images/banner.png) no-repeat center center;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -182,6 +182,7 @@ img{
   font-size: 20px;
   line-height: 30px;
   margin-bottom: 56px;
+  font-weight: 500;
 }
 .other-works_pics{
   display: flex;
