@@ -53,7 +53,7 @@ body {
   font-size: 24px;
   line-height: 1.75;
   font-weight: 700;
-  font-family: "Roboto","Microsoft JhengHei",sans-serif !important; }
+  font-family: 'roboto','Noto Sans TC','Microsoft JhengHei',sans-serif; }
 
 img {
   vertical-align: middle; }
@@ -187,7 +187,8 @@ img {
 .other-works > p {
   font-size: 20px;
   line-height: 30px;
-  margin-bottom: 56px; }
+  margin-bottom: 56px;
+  font-weight: 500; }
 
 .other-works_pics {
   display: -webkit-box;
