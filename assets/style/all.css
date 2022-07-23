@@ -67,7 +67,7 @@ img {
   margin-bottom: 56px; }
 
 .header {
-  background: url(/assets/images/banner.png) no-repeat center center;
+  background: url(assets/images/banner.png) no-repeat center center;
   background-size: cover;
   display: -webkit-box;
   display: -ms-flexbox;
